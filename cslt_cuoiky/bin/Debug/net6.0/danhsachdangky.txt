@@ -1,0 +1,4 @@
+﻿MaSoSinhVien: 12345678
+TenSinhVien: 123
+DanhSachDangKy: 1
+===============================================

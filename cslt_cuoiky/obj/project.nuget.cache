@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sSLUb7lDbfOwcpCGPnU5VZMr27BJayjosx9Rrd/f+7CriXLM6lZg95Md5KskfXHS80rLL033LvCE5dZlxuzz7g==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\cslt_cuoiky\\cslt_cuoiky\\cslt_cuoiky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Admin1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Admin1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Admin1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,106 @@
+MaSoSinhVien: 3122102001
+TenSinhVien: Nguyễn Văn An
+Email: nvan@gmail.com
+GPA: 3.8
+XepLoai: Xuất sắc
+
+MaSoSinhVien: 3122102031
+TenSinhVien: Lê Văn Duyên
+Email: lvduyen@gmail.com
+GPA: 3.7
+XepLoai: Xuất sắc
+
+MaSoSinhVien: 3122102032
+TenSinhVien: Phạm Thị Em
+Email: ptem@gmail.com
+GPA: 3.5
+XepLoai: Giỏi
+
+MaSoSinhVien: 3122102044
+TenSinhVien: Hoàng Văn Phát
+Email: hvphat@gmail.com
+GPA: 3.8
+XepLoai: Xuất sắc
+
+MaSoSinhVien: 3122102012
+TenSinhVien: Trần Thị Mai
+Email: ttmai@gmail.com
+GPA: 2.9
+XepLoai: Khá
+
+MaSoSinhVien: 3122102013
+TenSinhVien: Lê Văn Nguyên
+Email: lvnguyen@gmail.com
+GPA: 3.0
+XepLoai: Khá
+
+MaSoSinhVien: 3122102017
+TenSinhVien: Đặng Văn Toàn
+Email: dvtoan@gmail.com
+GPA: 2.9
+XepLoai: Khá
+
+MaSoSinhVien: 3122102020
+TenSinhVien: Trương Văn Uyên
+Email: tvuyen@gmail.com
+GPA: 2.8
+XepLoai: Khá
+
+MaSoSinhVien: 3122102021
+TenSinhVien: Nguyễn Thị Vy
+Email: ntvy@gmail.com
+GPA: 3.0
+XepLoai: Khá
+
+MaSoSinhVien: 3122102007
+TenSinhVien: Vũ Thị Giang
+Email: vtgiang@gmail.com
+GPA: 3.9
+XepLoai: Xuất sắc
+
+MaSoSinhVien: 3122102008
+TenSinhVien: Đặng Văn Hậu
+Email: dvhau@gmail.com
+GPA: 3.5
+XepLoai: Giỏi
+
+MaSoSinhVien: 3122102009
+TenSinhVien: Ngô Thị Hoài Như
+Email: nthnhu@gmail.com
+GPA: 1.6
+XepLoai: Yếu
+
+MaSoSinhVien: 3122102003
+TenSinhVien: Nguyễn Phú Cường
+Email: npcuong@gmail.com
+GPA: 2.8
+XepLoai: Khá
+
+MaSoSinhVien: 3122102004
+TenSinhVien: Lê Ngọc Dung
+Email: lndung@gmail.com
+GPA: 2.3
+XepLoai: Trung Bình
+
+MaSoSinhVien: 3122102005
+TenSinhVien: Nguyễn Hoàng Gia Huy
+Email: nhghuy@gmail.com
+GPA: 3.5
+XepLoai: Giỏi
+
+MaSoSinhVien: 3122102006
+TenSinhVien: Đoàn Văn Linh
+Email: dvlinh@gmail.com
+GPA: 1.8
+XepLoai: Yếu
+
+MaSoSinhVien: 31221025287
+TenSinhVien: Trần Nhật Khánh
+Email: Khanh@gmail.com
+GPA: 3.1
+XepLoai: KháMaSoSinhVien: 123123213
+TenSinhVien: 12312
+Email: 123
+GPA: 0
+XepLoai: Kém
+

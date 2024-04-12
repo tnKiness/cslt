@@ -1,0 +1,14 @@
+C:\C#\cslt_cuoiky\cslt_cuoiky\obj\Debug\net6.0\cslt_cuoiky.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\cslt_cuoiky\cslt_cuoiky\obj\Debug\net6.0\cslt_cuoiky.AssemblyInfoInputs.cache
+C:\C#\cslt_cuoiky\cslt_cuoiky\obj\Debug\net6.0\cslt_cuoiky.AssemblyInfo.cs
+C:\C#\cslt_cuoiky\cslt_cuoiky\obj\Debug\net6.0\cslt_cuoiky.csproj.CoreCompileInputs.cache
+C:\C#\cslt_cuoiky\cslt_cuoiky\bin\Debug\net6.0\cslt_cuoiky.exe
+C:\C#\cslt_cuoiky\cslt_cuoiky\bin\Debug\net6.0\cslt_cuoiky.deps.json
+C:\C#\cslt_cuoiky\cslt_cuoiky\bin\Debug\net6.0\cslt_cuoiky.runtimeconfig.json
+C:\C#\cslt_cuoiky\cslt_cuoiky\bin\Debug\net6.0\cslt_cuoiky.dll
+C:\C#\cslt_cuoiky\cslt_cuoiky\bin\Debug\net6.0\cslt_cuoiky.pdb
+C:\C#\cslt_cuoiky\cslt_cuoiky\obj\Debug\net6.0\cslt_cuoiky.dll
+C:\C#\cslt_cuoiky\cslt_cuoiky\obj\Debug\net6.0\refint\cslt_cuoiky.dll
+C:\C#\cslt_cuoiky\cslt_cuoiky\obj\Debug\net6.0\cslt_cuoiky.pdb
+C:\C#\cslt_cuoiky\cslt_cuoiky\obj\Debug\net6.0\cslt_cuoiky.genruntimeconfig.cache
+C:\C#\cslt_cuoiky\cslt_cuoiky\obj\Debug\net6.0\ref\cslt_cuoiky.dll
